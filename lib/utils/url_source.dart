@@ -1,0 +1,1 @@
+const mainUrl="https://fyp-aqedyredza-babyhatch.000webhostapp.com/babyhatch/";//"http://172.20.10.5/babyhatch/";
